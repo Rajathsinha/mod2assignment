@@ -5,4 +5,6 @@
         console.log(speakWord + " " + name);
     };
     window.helloSpeaker = helloSpeaker;
+
+    console.log('Test')
 })(window);
